@@ -1,5 +1,8 @@
 # MiDOK Health-App
 
+![image](https://github.com/Sarwarnazrul242/MiDOK---Health-App/assets/116752469/f4adb3a0-07c7-4d55-a0c6-6c67e93b4ead)
+
+
 # Description 
 I'm really into bringing together technology and healthcare, and I was part of a great team that built the MiDOK project. Together, we made this tool to help doctors and nurses quickly figure out health problems. We created both Android and iOS versions of the app, and my special focus was on the Android side.
 
